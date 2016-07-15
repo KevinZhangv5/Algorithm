@@ -1,4 +1,4 @@
-package zkf.wk6.summery.shouxie;
+package zkf.wk6.summery.test;
 
 public class UnionFind {
 	static int[] a=new int[10000];

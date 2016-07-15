@@ -1,4 +1,4 @@
-package zkf.wk6.summery.shouxie;
+package zkf.wk6.summery.test;
 
 public class Fact {
 	public static void main(String[] args) {

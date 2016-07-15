@@ -1,4 +1,4 @@
-package zkf.eulerproject;
+package zkf.wk5.eulerproject;
 
 import java.math.BigInteger;
 

@@ -1,4 +1,4 @@
-package zkf.wk6.summery.shouxie;
+package zkf.wk6.summery.test;
  /* 动态规划
  * 求最长公共子序列
  * @ author by gsm
